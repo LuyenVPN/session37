@@ -1,0 +1,40 @@
+{
+  "student": [
+    {
+      "id": "1",
+      "name": "vu viet tien",
+      "age": 18,
+      "grade": "12A"
+    },
+    {
+      "name": "Nguyen Chi CỨt",
+      "age": 19,
+      "grade": "12A",
+      "id": "2"
+    },
+    {
+      "id": "3",
+      "name": "Tran Quang Duy",
+      "age": 23,
+      "grade": "12A"
+    },
+    {
+      "name": "ngu như bò",
+      "age": 19,
+      "grade": "12A3",
+      "id": "cf45"
+    },
+    {
+      "id": "e396",
+      "name": "ngu như lợn",
+      "age": 19,
+      "grade": "12A3"
+    },
+    {
+      "id": "4034",
+      "name": "sieu nahn",
+      "age": 17,
+      "grade": "ấdafsdasfd"
+    }
+  ]
+}
